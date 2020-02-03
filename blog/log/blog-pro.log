@@ -1,0 +1,7 @@
+2017-10-13 12:15:48.101  INFO 3533 --- [restartedMain] com.lrm.BlogApplication                  : Starting BlogApplication on localhost with PID 3533 (/Users/limi/projects/blog/target/classes started by limi in /Users/limi/projects/blog)
+2017-10-13 12:15:48.103  INFO 3533 --- [restartedMain] com.lrm.BlogApplication                  : The following profiles are active: pro
+2017-10-13 12:15:52.609  WARN 3533 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2017-10-13 12:15:53.514  INFO 3533 --- [restartedMain] com.lrm.BlogApplication                  : Started BlogApplication in 5.98 seconds (JVM running for 6.766)
+2017-10-13 16:33:38.686  INFO 4420 --- [restartedMain] com.lrm.BlogApplication                  : Starting BlogApplication on localhost with PID 4420 (/Users/limi/projects/blog/target/classes started by limi in /Users/limi/projects/blog)
+2017-10-13 16:33:38.688  INFO 4420 --- [restartedMain] com.lrm.BlogApplication                  : The following profiles are active: pro
+2017-10-13 16:33:43.481  INFO 4420 --- [restartedMain] com.lrm.BlogApplication                  : Started BlogApplication in 5.298 seconds (JVM running for 6.028)
