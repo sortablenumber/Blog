@@ -61,7 +61,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -138,12 +138,26 @@
       </method>
     </configuration>
     <configuration name="BlogApplicationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lrm.BlogApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.myblog.BlogApplicationTests" />
       <module name="blog" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lrm.*" />
+          <option name="PATTERN" value="com.myblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplicationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myblog.BlogApplicationTests" />
+      <module name="blog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myblog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +166,12 @@
       </method>
     </configuration>
     <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lrm.util.MD5Utils" />
+      <option name="MAIN_CLASS_NAME" value="com.myblog.util.MD5Utils" />
       <module name="blog" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lrm.util.*" />
+          <option name="PATTERN" value="com.myblog.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,7 +321,7 @@
     </configuration>
     <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="blog" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lrm.BlogApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myblog.BlogApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -392,6 +406,7 @@
       <workItem from="1580709259850" duration="602000" />
       <workItem from="1580751403503" duration="47000" />
       <workItem from="1581144490919" duration="913000" />
+      <workItem from="1581325786843" duration="492000" />
     </task>
     <servers />
   </component>
@@ -423,38 +438,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="978" y="186" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580539667896" />
-    <state width="1493" height="329" key="GridCell.Tab.0.bottom" timestamp="1581145404662">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1581326288516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="329" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581145404662" />
-    <state width="1493" height="329" key="GridCell.Tab.0.center" timestamp="1581145404662">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581326288516" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1581326288516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="329" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581145404662" />
-    <state width="1493" height="329" key="GridCell.Tab.0.left" timestamp="1581145404662">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581326288516" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1581326288516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="329" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581145404662" />
-    <state width="1493" height="329" key="GridCell.Tab.0.right" timestamp="1581145404662">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581326288516" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1581326288516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="329" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581145404662" />
-    <state width="1493" height="329" key="GridCell.Tab.1.bottom" timestamp="1581145404662">
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581326288516" />
+    <state width="1493" height="209" key="GridCell.Tab.1.bottom" timestamp="1581326288516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="329" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581145404662" />
-    <state width="1493" height="329" key="GridCell.Tab.1.center" timestamp="1581145404662">
+    <state width="1493" height="209" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581326288516" />
+    <state width="1493" height="209" key="GridCell.Tab.1.center" timestamp="1581326288516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="329" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581145404662" />
-    <state width="1493" height="329" key="GridCell.Tab.1.left" timestamp="1581145404662">
+    <state width="1493" height="209" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581326288516" />
+    <state width="1493" height="209" key="GridCell.Tab.1.left" timestamp="1581326288516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="329" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581145404662" />
-    <state width="1493" height="329" key="GridCell.Tab.1.right" timestamp="1581145404662">
+    <state width="1493" height="209" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581326288516" />
+    <state width="1493" height="209" key="GridCell.Tab.1.right" timestamp="1581326288516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="329" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581145404662" />
+    <state width="1493" height="209" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581326288516" />
     <state width="1493" height="196" key="GridCell.Tab.2.bottom" timestamp="1580016325389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
